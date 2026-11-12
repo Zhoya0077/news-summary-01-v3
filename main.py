@@ -22,5 +22,7 @@ def main():
         f.write(text)
 
 
+# v3 restore: same summary and output as the v1 entry.
+
 if __name__ == "__main__":
     main()
